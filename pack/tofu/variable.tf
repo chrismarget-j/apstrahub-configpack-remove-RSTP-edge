@@ -8,5 +8,5 @@ variable "blueprint_id" {
 
 variable "name" {
   type = string
-  default = "EVPNLoop"
+  default = "No RSTP Edge"
 }
